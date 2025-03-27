@@ -1,9 +1,9 @@
 #recursos{
-  color: white;
+  color: var(--primary-color);
 }
 
 #recursos h2 {
-  color: white;
+  color: var(--primary-color);
 }
 
 #recursos h3 {
