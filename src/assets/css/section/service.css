@@ -1,11 +1,11 @@
 #servicos {
-  background: white;
+  background: var(--primary-color);
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
 #servicos h2,h3 {
-  color: #7c25f8;
+  color: var(--purple-color);
 }
 
 #servicos {
