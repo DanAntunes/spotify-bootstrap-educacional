@@ -1,5 +1,5 @@
 .btn-custom {
-  color: white;
+  color: var(--primary-color);
   border-radius: 500px;
   -webkit-border-radius: 500px;
   -moz-border-radius: 500px;
@@ -9,20 +9,20 @@
 }
 
 .roxo {
-  background: #7c25f8;
+  background: var(--purple-color);
 }
 
 .roxo:hover {
   background: #6207e3;
-  color: white;
+  color: var(--primary-color)e;
 }
 
 .branco {
-  border: 2px solid white;
+  border: 2px solid var(--primary-color);
 }
 
 .branco:hover {
-  background-color: white;
+  background-color: var(--primary-color);
   color: black;
 }
 
