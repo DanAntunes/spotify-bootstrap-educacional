@@ -25,3 +25,15 @@
   background-color: white;
   color: black;
 }
+
+@media (max-width: 575.98px) { 
+  .btn-custom {
+      margin: 10px 15px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+  .btn-custom {
+      margin: 10px 15px;
+  }
+}
