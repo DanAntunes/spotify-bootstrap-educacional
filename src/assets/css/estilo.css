@@ -2,3 +2,5 @@
 @import url(./layout/footer.css);
 @import url(./styles/variables.css);
 @import url(./styles/main.css);
+@import url(./components/typograph.css);
+@import url(./components/button.css);
