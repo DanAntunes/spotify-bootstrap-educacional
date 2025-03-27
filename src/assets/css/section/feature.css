@@ -1,0 +1,18 @@
+#recursos{
+  color: white;
+}
+
+#recursos h2 {
+  color: white;
+}
+
+#recursos h3 {
+  color: #9bf0e1;
+}
+
+.rotacionar {
+  transform: rotate(30deg);
+  -ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg);
+  padding-left: 80px;
+}
