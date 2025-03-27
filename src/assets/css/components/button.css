@@ -1,0 +1,27 @@
+.btn-custom {
+  color: white;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+  text-transform: uppercase;
+  transition: backgroud 0.4s, color 0.4s;
+  padding: 10px 20px;
+}
+
+.roxo {
+  background: #7c25f8;
+}
+
+.roxo:hover {
+  background: #6207e3;
+  color: white;
+}
+
+.branco {
+  border: 2px solid white;
+}
+
+.branco:hover {
+  background-color: white;
+  color: black;
+}
