@@ -4,3 +4,5 @@
 @import url(./styles/main.css);
 @import url(./components/typograph.css);
 @import url(./components/button.css);
+@import url(./section/feature.css);
+@import url(./section/service.css);
