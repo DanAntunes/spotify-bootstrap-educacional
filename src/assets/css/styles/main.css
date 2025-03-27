@@ -1,0 +1,20 @@
+html, body, #home {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: url(../img/capa.png),
+              url(../img/ruido.png),
+              linear-gradient(50deg,#ff4169,#7c26f8);
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.capa {
+  text-align: center;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 5%; 
+}
